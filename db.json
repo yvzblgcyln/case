@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "test",
+      "password": "123",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "admin123",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "3",
+      "username": "testuser",
+      "password": "testpass",
+      "image": "https://picsum.photos/200/301"
+    }
+  ],
+  "orders": [
+    {
+      "id": "dd7ec361-2785-4f67-a84a-18ceaed8564a",
+      "userid": 2,
+      "amount": 10,
+      "price": 12.1
+    },
+    {
+      "id": "ede0fb10-bfd4-461e-9ddc-ec2648bf7a3a",
+      "userid": 2,
+      "amount": 1,
+      "price": 1
+    },
+    {
+      "id": "ee44a583-262e-4a58-b81e-b94eb21a8381",
+      "userid": 2,
+      "amount": 2,
+      "price": 2
+    },
+    {
+      "id": "9e640e03-d4bf-431c-88dd-7dd99d324b5c",
+      "userid": 2,
+      "amount": 3,
+      "price": 3
+    },
+    {
+      "id": "14673662-8a41-4793-abc3-24ef2d223d8c",
+      "userid": 2,
+      "amount": 4,
+      "price": 4
+    },
+    {
+      "id": "3032f859-b983-463a-aec9-daebf72a1110",
+      "userid": 1,
+      "amount": 123123123123,
+      "price": 123123
+    },
+    {
+      "id": "b68201b4-c65d-4fd9-ac68-a8a87316d993",
+      "userid": "1",
+      "amount": 12,
+      "price": 123
+    }
+  ]
+}
